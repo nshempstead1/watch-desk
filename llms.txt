@@ -1,15 +1,21 @@
 # Watch Desk
 
-Sold by Corpus Localization LLC. Hosted uptime / SSL / page-change / GBP unpublished / review-fingerprint watchdog. Undercut the suite and beat their email.
+Sold by Corpus Localization LLC. Hosted watchdogs plus capable SKUs we can actually deliver. Undercut the suite and beat their email.
 
 - Lead SKU: Watch Desk $12/mo, up to 5 checks. HTTP Telegram ≤60s. HTML/GBP/review ≤15 min.
 - Review-only $15/mo (ReviewAlert.ai $21 / 24h).
 - Listing Pulse $19/mo (BrightLocal Track $39/mo monthly).
+- OpenClaw install: $299 setup + $49/mo keep-alive. Setup packet 48h.
+- Instantly Desk: $29/mo (Instantly historically $37–$97). We do not buy Instantly for Corpus’s own acquisition.
+- Seller Central Desk: $99/mo. Customer owns the account. Not the $299 no-login POA packet.
+- Review Blast: $39/mo vs NiceJob $75 / Podium ~$399. Customer warrants TCPA consent.
+- Rank Grid: $19/mo vs Local Falcon Starter $24.99. Paid SERP API, not a proxy farm.
+- Card Retry: $29/mo vs Churnkey ~$199. No PAN. Failed-invoice Telegram ≤60s.
 - Stripe Payment Links: Order Desk $29/mo at https://nshempstead1.github.io/order-desk/
 
 URL: https://nshempstead1.github.io/watch-desk/
 
-Not an OpenClaw install. We ping. We do not fix the site or reply to reviews.
+We do not sell heart surgery, food, or manufactured physical goods. We do not guarantee platform, inbox, or insurer outcomes.
 
 intake@corpuslocalization.com
 (973) 803-2795
