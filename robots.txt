@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nshempstead1.github.io/watch-desk/sitemap.xml
